@@ -1,0 +1,3 @@
+command:
+  ./bin/create-topics.sh /usr/local/Cellar/kafka/2.2.0/libexec localhost 2181
+
