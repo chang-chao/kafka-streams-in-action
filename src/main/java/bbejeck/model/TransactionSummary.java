@@ -63,9 +63,10 @@ public class TransactionSummary {
     public String toString() {
         return "TransactionSummary{" +
                 "customerId='" + customerId + '\'' +
-                ", stockTicker='" + stockTicker + '\'' +
                 ", customerName='" + customerName + '\'' +
+                ", stockTicker='" + stockTicker + '\'' +
                 ", companyName='" + companyName + '\'' +
+                ", summaryCount='" + summaryCount + '\'' +
                 '}';
     }
 }
